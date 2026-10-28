@@ -1,0 +1,29 @@
+{
+  "name": "@roblambert9/blender-mcp",
+  "version": "1.0.0",
+  "description": "Blender 3D creation suite MCP server for modeling, rendering, animation, and scene manipulation with autonomous x402 pay-per-call rails. Wrapped with @monetize x402 rails.",
+  "main": "server.py",
+  "bin": {
+    "blender-mcp": "server.py"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "@monetize",
+    "x402",
+    "solana",
+    "usdc",
+    "ai-agents",
+    "nanoempire",
+    "blender",
+    "3d",
+    "rendering",
+    "animation"
+  ],
+  "author": "Rob Lambert <roblambert9@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roblambert9/blender-mcp.git"
+  }
+}
